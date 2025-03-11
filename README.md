@@ -1,6 +1,6 @@
 # Park Platform Design Challenge
 
-<img width="80%" align="center" src="https://github.com/RheaMimiCarillo/https://github.com/RheaMimiCarillo/Park-Platform-Design-Challenge/" alt="mobile app " /> <br/>
+<img width="80%" align="center" src="https://github.com/RheaMimiCarillo/https://github.com/RheaMimiCarillo/Park-Platform-Design-Challenge/" alt="mobile app front page" /> <br/>
 
 
 We focused on task 1 in our final prototype because it establishes a basis for park searching, allowing users to find parks in their local area. Once users can search for parks, then more options and features can be added, including ratigs, reports, makinng events, etc. This task is essential because it helps user quickyl find parks to match their specific needs. 
