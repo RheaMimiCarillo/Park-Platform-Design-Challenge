@@ -75,7 +75,8 @@ research, brainstorming, and peer feedback**.
 - **Events Tab**: Users can submit or view **community park events** (cleanups, gatherings,
   sports).
 
-🔗 See more details in our **[`Task-Descriptions/`](Task-Descriptions/) folder**.
+🔗 See more details in our [**`Task-Descriptions/initial-design-brainstorming-notes.md`**](
+Task-Descriptions/initial-design-brainstorming-notes.md).
 
 ---
 
@@ -91,8 +92,8 @@ etc.)**.
 improve usability.
 
 🔗 **Read full writeup in: [
-`Task-Descriptions/Park-Platform-Design-Challenge-Brainstorming-Notes.pdf`](
-Task-Descriptions/Park-Platform-Design-Challenge-Brainstorming-Notes.pdf).**
+`Task-Descriptions/task-1-search.md`](
+Task-Descriptions/task-1-search.md).**
 
 ---
 
@@ -109,6 +110,8 @@ user flows.
 
 <img width="80%" src="Prototype/Web/web-sketches.png" alt="Web UI Sketch"/>
 
+🔗 **Browse all sketches & screenshots: [`Prototype/`](Prototype).**
+
 ---
 
 ## 📢 Feedback & Iterations
@@ -118,7 +121,7 @@ Throughout the design process, we **iterated based on peer feedback**:
 ✔ **Voice search microphone for accessibility**  
 ✔ **More intuitive navigation & map updates**
 
-📌 **Feedback Summary:** See [`Feedback/peer-review-notes.md`](Feedback/peer-review-notes.md)
+📌 **Feedback Summary:** See [`Feedback/`](Feedback)
 
 ---
 
