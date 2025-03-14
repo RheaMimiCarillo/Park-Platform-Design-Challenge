@@ -1,5 +1,7 @@
 # 🌳 Park Platform Design Challenge
 
+<img width="50%" src="assets/park-mockup.png" alt="Park Platform Design Mockup" />
+
 ## 📌 Project Overview
 
 The **Park Platform Design Challenge** aims to create a **centralized platform** for
