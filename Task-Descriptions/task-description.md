@@ -1,6 +1,9 @@
+# Task Descriptions
+
 Task 1: Searching for parks with specific features (e.g., playgrounds, pet-friendly).
 Task 2: Viewing reviews and ratings for parks.
-Task 3: Find accessible (safe, quality amenities, accessibility features like wheelchair access, benches, ramps, handrails...) parks.
+Task 3: Find accessible (safe, quality amenities, accessibility features like wheelchair
+access, benches, ramps, handrails...) parks.
 Task 4: Finding a pet-friendly and clean park.
 Task 5: Reporting safety issues or maintenance concerns.
 Task 6: Searching for events or organizing park-based functions.
