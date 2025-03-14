@@ -25,7 +25,7 @@ upon.
 | **Submit a Report page missing**  | ✅ Added a new page for submitting reports                              |
 
 <figure>
-    <img width="70%" src="/Prototype/Mobile/mobile-sketch.png" alt="Feedback Summary"/>
+    <img width="70%" src="/Prototype/Mobile/mobile-sketches.png" alt="Feedback Summary"/>
     <figcaption><em>[Mobile Interface Sketch]</em></figcaption>
 </figure>
 

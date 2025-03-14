@@ -21,7 +21,7 @@ This project was developed as part of a **computer science design challenge**, w
     ├── Prototype/          (Design images + screenshots)
     │   ├── Mobile/
     │   ├── Web/
-    ├── Task-Descriptions/  
+    ├── Task-Descriptions/  (Short-Listed Tasks)
     ├── Feedback/           (Peer feedback and updates made)
     ├── Research/           (Brainstorming)
 
@@ -44,7 +44,7 @@ ___
 
 ## 📱 Live Prototype Demo
 
-### 🎥 Mobile Prototype Demo:
+### 🎥 Mobile Platform:
 
 <img height="450px" src="assets/mobile-demo.gif" alt="Mobile Prototype Demo" />
 
@@ -52,38 +52,7 @@ ___
 [**<u>here
 </u>**](https://www.canva.com/design/DAGgyg7zKoQ/E1ChejLl6TJYac0AhMemow/view?mode=prototype)
 
-
----
-
-## 🎨 Initial Design Sketches
-
-Before developing the **digital prototype**, we explored **low-fidelity sketches** to map out
-user flows.
-
-### 📱 **Mobile Interface Sketch**
-
-<img width="80%" src="Prototype/Mobile/mobile-sketch.png" alt="Mobile UI Sketch"/>
-
-🔗 **See more sketches in [`Research/`](Research/).**
-
-### 🖥️ **Web Interface Sketch**
-
-<img width="80%" src="Prototype/Web/web-sketches.png" alt="Web UI Sketch"/>
-
----
-
-## 🔍 Selected Task: **Park Search & Filters (Task 1)**
-
-### **Why We Focused on This Task**
-
-✅ **Foundation of the platform** – Searching is the **first step** before reviews, reports, or
-events.  
-✅ **Allows customization** – Users can **filter parks by features (playgrounds, pet-friendly,
-etc.)**.  
-✅ **Enables accessibility enhancements** – **Voice search, larger icons, and simplified UI**
-improve usability.
-
----
+___
 
 ## 🧠 Research & Brainstorming
 
@@ -106,7 +75,39 @@ research, brainstorming, and peer feedback**.
 - **Events Tab**: Users can submit or view **community park events** (cleanups, gatherings,
   sports).
 
-🔗 See more details in our **[`Research/`](Research/) folder**.
+🔗 See more details in our **[`Task-Descriptions/`](Task-Descriptions/) folder**.
+
+---
+
+## 🔍 Selected Task: **Park Search & Filters (Task 1)**
+
+### **Why We Focused on This Task**
+
+✅ **Foundation of the platform** – Searching is the **first step** before reviews, reports, or
+events.  
+✅ **Allows customization** – Users can **filter parks by features (playgrounds, pet-friendly,
+etc.)**.  
+✅ **Enables accessibility enhancements** – **Voice search, larger icons, and simplified UI**
+improve usability.
+
+🔗 **Read full writeup in: [
+`Task-Descriptions/Park-Platform-Design-Challenge-Brainstorming-Notes.pdf`](
+Task-Descriptions/Park-Platform-Design-Challenge-Brainstorming-Notes.pdf).**
+
+---
+
+## 🎨 Initial Design Sketches
+
+Before developing the **digital prototype**, we explored **low-fidelity sketches** to map out
+user flows.
+
+### 📱 **Mobile Interface Sketch**
+
+<img width="80%" src="Prototype/Mobile/mobile-sketches.png" alt="Mobile UI Sketch"/>
+
+### 🖥️ **Web Interface Sketch**
+
+<img width="80%" src="Prototype/Web/web-sketches.png" alt="Web UI Sketch"/>
 
 ---
 
