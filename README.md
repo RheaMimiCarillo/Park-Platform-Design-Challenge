@@ -143,12 +143,12 @@ ___
 
 ## 🤝 Team Members
 
-- **Komalpreet Dhaliwal**
-- **Lily Hoopes**
-- **Ryder DeBack**
-- **Rhea Mimi Carillo**
-- **Naziira Hemeto**
-- **Anwar Noor**
+- [**Komalpreet Dhaliwal**](https://www.linkedin.com/in/komalpreet-dhaliwal-kaur843/)
+- [**Lily Hoopes**](https://www.linkedin.com/in/lily-hoopes/)
+- [**Ryder DeBack**](https://www.linkedin.com/in/ryder-deback/)
+- [**Rhea Mimi Carillo**](https://www.linkedin.com/in/rhea-carillo/)
+- [**Naziira Hemeto**](https://www.linkedin.com/in/nhemeto/)
+- [**Anwar Noor**](https://www.linkedin.com/in/anwar-noor/)
 
 ---
 
