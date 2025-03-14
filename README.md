@@ -13,6 +13,20 @@ This project was developed as part of a **computer science design challenge**, w
 
 ---
 
+## 📌 Repository Structure
+
+    Park-Platform-Design-Challenge/
+    ├── README.md
+    ├── assets/
+    ├── Prototype/          (Design images + screenshots)
+    │   ├── Mobile/
+    │   ├── Web/
+    ├── Task-Descriptions/  
+    ├── Feedback/           (Peer feedback and updates made)
+    ├── Research/           (Brainstorming)
+
+___
+
 ## 🎯 Key Features
 
 <img src="https://img.shields.io/badge/-Mobile_Friendly-green" alt="Mobile Friendly"/>
@@ -117,7 +131,7 @@ Throughout the design process, we **iterated based on peer feedback**:
 
 <img width="80%" src="Prototype/Mobile/search-filters-page.png" alt="Search and Filters UI"/>
 
-### 📝 Submit A Report
+### 📝 Report Submission Form
 
 <img width="80%" src="Prototype/Mobile/report-page.png" alt="Feedback Summary"/>
 
@@ -134,15 +148,3 @@ ___
 
 ---
 
-## 📌 Repository Structure
-
-    Park-Platform-Design-Challenge/
-    ├── README.md
-    ├── assets/
-    ├── Prototype/          (Screenshots + live link)
-    │   ├── Mobile/
-    │   ├── Web/
-    ├── Task-Descriptions/  
-    ├── Feedback/           (Peer feedback and updates made)
-    ├── Research/
-    │   ├── Park-Platform-Design-Challenge-Notes/Brainstorming.pdf
