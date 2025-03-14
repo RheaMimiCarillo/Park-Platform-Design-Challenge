@@ -46,15 +46,15 @@ This project was developed as part of a **computer science design challenge**, w
 Before developing the **digital prototype**, we explored **low-fidelity sketches** to map out
 user flows.
 
-### 🖥️ **Web Interface Sketch**
-
-<img width="80%" src="assets/web-sketch.png" alt="Web UI Sketch"/>
-
 ### 📱 **Mobile Interface Sketch**
 
-<img width="80%" src="assets/mobile-sketch.png" alt="Mobile UI Sketch"/>
+<img width="80%" src="Prototype/Mobile/mobile-sketch.png" alt="Mobile UI Sketch"/>
 
 🔗 **See more sketches in [`Research/`](Research/).**
+
+### 🖥️ **Web Interface Sketch**
+
+<img width="80%" src="Prototype/Web/web-sketches.png" alt="Web UI Sketch"/>
 
 ---
 
@@ -75,9 +75,6 @@ improve usability.
 
 This project was developed through an **iterative design process**, incorporating **user
 research, brainstorming, and peer feedback**.
-
-📄 **Full Brainstorming Notes:** [
-`Research/Week7-8-Brainstorming.pdf`](Research/Week7-8-Brainstorming.pdf)
 
 ### 🔍 Short-Listed Tasks:
 
@@ -112,13 +109,17 @@ Throughout the design process, we **iterated based on peer feedback**:
 
 ## 🖥️ Screenshots
 
+### 🌳 Home Page & Park Rating
+
+<img width="80%" src="Prototype/Mobile/home-page.png" alt="Search and Filters UI"/>
+
 ### 🔍 Search & Filter System
 
-<img width="80%" src="assets/search-filters.png" alt="Search and Filters UI"/>
+<img width="80%" src="Prototype/Mobile/search-filters-page.png" alt="Search and Filters UI"/>
 
-### 📝 Feedback & Updates
+### 📝 Submit A Report
 
-<img width="80%" src="assets/feedback-summary.png" alt="Feedback Summary"/>
+<img width="80%" src="Prototype/Mobile/report-page.png" alt="Feedback Summary"/>
 
 ___
 
@@ -138,14 +139,10 @@ ___
     Park-Platform-Design-Challenge/
     ├── README.md
     ├── assets/
-    │   ├── park-mockup.png
-    │   ├── mobile-demo.gif
-    │   ├── search-filters.png
-    │   ├── feedback-summary.png
-    ├── Prototype/
-    │   ├── Mobile/  (Mobile prototype screenshots + interactive link)
-    │   ├── Web/      (Web prototype screenshots)
-    ├── Task-Descriptions/
-    ├── Feedback/ (Peer feedback and updates made)
+    ├── Prototype/          (Screenshots + live link)
+    │   ├── Mobile/
+    │   ├── Web/
+    ├── Task-Descriptions/  
+    ├── Feedback/           (Peer feedback and updates made)
     ├── Research/
     │   ├── Park-Platform-Design-Challenge-Notes/Brainstorming.pdf
