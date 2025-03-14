@@ -1,22 +1,106 @@
-# Park Platform Design Challenge
+# 🌳 Park Platform Design Challenge
 
-<img width="80%" align="center" src="https://github.com/RheaMimiCarillo/https://github.com/RheaMimiCarillo/Park-Platform-Design-Challenge/" alt="mobile app front page" /> <br/>
+## 📌 Project Overview
+The **Park Platform Design Challenge** aims to create a **centralized platform** for neighborhood park information.  
+Users can **search for parks with specific features**, read ratings, report safety issues, and find events.  
+This project was developed as part of a **computer science design challenge**, with a focus on **usability, accessibility, and user-driven feedback**.
 
+---
+## 🎯 Key Features
+<img src="https://img.shields.io/badge/-Mobile_Friendly-green" alt="Mobile Friendly"/>
+<img src="https://img.shields.io/badge/-Interactive_Map-blue" alt="Interactive Map"/>
+<img src="https://img.shields.io/badge/-Accessibility_Focused-purple" alt="Accessibility"/>
+<img src="https://img.shields.io/badge/-Voice_Search-yellow" alt="Voice Search"/>
 
-[text](https://www.canva.com/design/DAGgyg7zKoQ/E1ChejLl6TJYac0AhMemow/view?mode%3Dprototype)
+✔ **Search for parks** based on location & features  
+✔ **Filter parks** by **accessibility (wheelchair, pet-friendly, etc.)**  
+✔ **View ratings & reviews** from the community  
+✔ **Report safety issues & maintenance problems**  
+✔ **Find & organize local park events**
 
-<br/>
+---
+## 📱 Live Prototype Demo
+### 🎥 Mobile Prototype Demo:
+<img height="450px" src="assets/mobile-demo.gif" alt="Mobile Prototype Demo" />
 
-<h3>:eye_speech_bubble: Live demo</h3>
+---
+## 🎨 Initial Design Sketches
+Before developing the **digital prototype**, we explored **low-fidelity sketches** to map out user flows.
 
-Check live demonstration <a href="https://www.canva.com/design/DAGgyg7zKoQ/E1ChejLl6TJYac0AhMemow/view?mode%3Dprototype"><strong>here</strong></a>
+### 🖥️ **Web Interface Sketch**
+<img width="80%" src="assets/web-sketch.png" alt="Web UI Sketch"/>
 
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/ alt="the design's home page">
+### 📱 **Mobile Interface Sketch**
+<img width="80%" src="assets/mobile-sketch.png" alt="Mobile UI Sketch"/>
 
-## The 
-We focused on task 1 in our final prototype because it establishes a basis for park searching, allowing users to find parks in their local area. Once users can search for parks, then more options and features can be added, including ratigs, reports, makinng events, etc. This task is essential because it helps user quickyl find parks to match their specific needs. 
+🔗 **See more sketches in [`Research/`](Research/).**
 
-Our final design incooperated feedback including more accesibiliy features, larger icons, and more clear fucntionalities. We added a speak to talk microphone, keyboard, and cleared icons. 
+---
+## 🔍 Selected Task: **Park Search & Filters (Task 1)**
+### **Why We Focused on This Task**
+✅ **Foundation of the platform** – Searching is the **first step** before reviews, reports, or events.  
+✅ **Allows customization** – Users can **filter parks by features (playgrounds, pet-friendly, etc.)**.  
+✅ **Enables accessibility enhancements** – **Voice search, larger icons, and simplified UI** improve usability.  
 
-As mentioned above, to imporve user expreince, we made icons more clear and larger, as well as ensuring the icons meanings were very quite. We added many interactive features, including interactives maps and searches to allow users to find their best mathces based on proximity and other filters. 
+---
+## 🧠 Research & Brainstorming
+This project was developed through an **iterative design process**, incorporating **user research, brainstorming, and peer feedback**.
 
+📄 **Full Brainstorming Notes:** [`Research/Week7-8-Brainstorming.pdf`](Research/Week7-8-Brainstorming.pdf)
+
+### 🔍 Short-Listed Tasks:
+✅ **Task 1: Park Search & Filters** (Playgrounds, pet-friendly, accessibility)  
+✅ **Task 2: Ratings & Reviews** (Consolidating feedback from different sources)  
+✅ **Task 5: Safety Reporting** (Quick issue submission for park conditions)  
+✅ **Task 6: Event Planning** (Organizing park-based activities)  
+
+### 📝 Key Insights from Brainstorming:
+- **Search Bar + Filters**: Allow users to filter parks based on features (playgrounds, trails, restrooms).  
+- **Park Profiles**: Each park should have **user-submitted features & images**.  
+- **Safety Reporting**: Enable anonymous issue reports (trash, broken equipment, vandalism).  
+- **Events Tab**: Users can submit or view **community park events** (cleanups, gatherings, sports).  
+
+🔗 See more details in our **[`Research/`](Research/) folder**.
+
+---
+## 📢 Feedback & Iterations
+Throughout the design process, we **iterated based on peer feedback**:  
+✔ **Larger icons & clearer UI**  
+✔ **Voice search microphone for accessibility**  
+✔ **More intuitive navigation & map updates**  
+
+📌 **Feedback Summary:** See [`Feedback/peer-review-notes.md`](Feedback/peer-review-notes.md)  
+
+---
+## 🖥️ Screenshots
+### 🔍 Search & Filter System
+<img width="80%" src="assets/search-filters.png" alt="Search and Filters UI"/>
+
+### 📝 Feedback & Updates
+<img width="80%" src="assets/feedback-summary.png" alt="Feedback Summary"/>
+
+___
+## 🤝 Team Members
+- **Komalpreet Dhaliwal**
+- **Lily Hoopes**
+- **Ryder DeBack**
+- **Rhea Mimi Carillo**
+- **Naziira Hemeto**
+- **Anwar Noor**
+
+---
+## 📌 Repository Structure
+Park-Platform-Design-Challenge/
+├── README.md
+├── assets/
+│   ├── park-mockup.png
+│   ├── mobile-demo.gif
+│   ├── search-filters.png
+│   ├── feedback-summary.png
+├── Prototype/
+│   ├── Mobile/  (Mobile prototype screenshots + interactive link)
+│   ├── Web/      (Web prototype screenshots)
+├── Task-Descriptions/
+├── Feedback/ (Peer feedback and updates made)
+├── Research/
+│   ├── Park-Platform-Design-Challenge-Notes/Brainstorming.pdf
