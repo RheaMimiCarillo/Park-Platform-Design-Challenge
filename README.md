@@ -32,6 +32,11 @@ This project was developed as part of a **computer science design challenge**, w
 
 <img height="450px" src="assets/mobile-demo.gif" alt="Mobile Prototype Demo" />
 
+🔗 **Click to view the full prototype on Canva**
+[**<u>here
+</u>**](https://www.canva.com/design/DAGgyg7zKoQ/E1ChejLl6TJYac0AhMemow/view?mode=prototype)
+
+
 ---
 
 ## 🎨 Initial Design Sketches
