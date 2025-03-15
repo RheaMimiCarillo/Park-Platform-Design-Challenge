@@ -2,7 +2,7 @@
 
 ## 🔗 Interactive Prototype
 
-🔗 [Click to vie live prototype on **Canva**](
+🔗 [Click to view live prototype on **Canva**](
 https://www.canva.com/design/DAGgyg7zKoQ/E1ChejLl6TJYac0AhMemow/view?mode=prototype)
 
 ---
