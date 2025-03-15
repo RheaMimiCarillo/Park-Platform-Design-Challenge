@@ -91,7 +91,7 @@ etc.)**.
 ✅ **Enables accessibility enhancements** – **Voice search, larger icons, and simplified UI**
 improve usability.
 
-🔗 **Read full writeup in: [
+🔗 **Read the full writeup in: [
 `Task-Descriptions/task-1-search.md`](
 Task-Descriptions/task-1-search.md).**
 
