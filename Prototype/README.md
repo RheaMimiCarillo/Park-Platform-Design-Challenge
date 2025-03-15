@@ -36,3 +36,4 @@ https://www.canva.com/design/DAGgyg7zKoQ/E1ChejLl6TJYac0AhMemow/view?mode=protot
 <img width="80%" src="Web/web-sketches.png" alt="Web UI Sketch"/>
 
 ---
+🔗 [Return to root](https://github.com/RheaMimiCarillo/Park-Platform-Design-Challenge)
