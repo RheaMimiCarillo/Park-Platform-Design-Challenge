@@ -46,7 +46,7 @@ ___
 
 ### 🎥 Mobile Platform:
 
-<img src="assets/mobile-demo.gif" alt="Mobile Prototype Demo" style="object-fit: contain; />
+<img src="assets/mobile-demo.gif" alt="Mobile Prototype Demo" style="object-fit: contain;" />
 
 🔗 **Click to view the full prototype on Canva**
 [**<u>here
