@@ -46,7 +46,7 @@ ___
 
 ### 🎥 Mobile Platform:
 
-<img src="assets/mobile-demo.gif" alt="Mobile Prototype Demo" />
+<img src="assets/mobile-demo.gif" alt="Mobile Prototype Demo" style="width:100%;height:auto;" />
 
 🔗 **Click to view the full prototype on Canva**
 [**<u>here
@@ -76,7 +76,7 @@ research, brainstorming, and peer feedback**.
   sports).
 
 🔗 See more details in our [**`Task-Descriptions/initial-design-brainstorming-notes.md`**](
-Task-Descriptions/initial-design-brainstorming-notes.md).
+Task-Descriptions/initial-design-brainstorming-notes.md)
 
 ---
 
@@ -93,7 +93,7 @@ improve usability.
 
 🔗 **Read the full writeup in: [
 `Task-Descriptions/task-1-search.md`](
-Task-Descriptions/task-1-search.md).**
+Task-Descriptions/task-1-search.md)**
 
 ---
 
@@ -110,7 +110,7 @@ user flows.
 
 <img width="80%" src="Prototype/Web/web-sketches.png" alt="Web UI Sketch"/>
 
-🔗 **Browse all sketches & screenshots: [`Prototype/`](Prototype).**
+🔗 **Browse all sketches & screenshots: [`Prototype/`](Prototype)**
 
 ---
 
@@ -151,4 +151,4 @@ ___
 - [**🌟 Anwar Noor**](https://www.linkedin.com/in/anwar-noor/)
 
 ---
-
+🏠[Return to repository root](https://github.com/RheaMimiCarillo/Park-Platform-Design-Challenge)
